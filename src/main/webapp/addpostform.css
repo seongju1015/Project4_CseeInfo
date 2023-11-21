@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to right, #e4cfee, #ffffff);
+    width:100%;
+    height:100%;
+    margin: 0;
+    padding: 0;
+
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+    color:#fff;
+    text-align: center;
+}
+#home{
+    color:#fff;
+    text-decoration: none;
+}

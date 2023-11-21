@@ -1,0 +1,51 @@
+@media (min-width:551px){
+    .container{
+        width: 100vw;
+    }
+
+    .container-fluid{
+        margin-bottom: 3%;
+    }
+
+    .top{
+        width:100vw;
+        height:15vh;
+    }
+    .nav-li{
+        position:relative;
+        left:30vw;
+    }
+
+    .table-responsive{
+        text-align: center;
+
+    }
+    .container-fluid{
+        font-size:x-large;
+        font-weight: bold;
+        color:rgb(50, 73, 165);
+    }
+
+    #view_page{
+        float:right;
+    }
+    #my_a1{
+        width: 93vw;
+        float: right;
+        margin-right: 5%;
+        text-align: right;
+
+    }
+    .nav-link{
+        color:#fff;
+    }
+    #delete_button{
+        color:red;
+        float:right;
+        margin-right: 4%;
+    }
+    #deletebutton{
+        color:white;
+    }
+
+}
